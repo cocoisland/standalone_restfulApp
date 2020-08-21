@@ -1,4 +1,5 @@
 # standalone_restfulApp
+> This application represents the barebone minimum running standalone application built with dropwizard framework and maven-shade-plugin fat jar packaging.
 
 > Dropwizard is an open-source Java framework used for the fast development of high-performance RESTful web services. It gathers some popular libraries to create the light-weight package. The main libraries that it uses are Jetty, Jersey, Jackson, JUnit, and Guava. Furthermore, it uses its own library called Metrics.
 
